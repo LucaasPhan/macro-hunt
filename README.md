@@ -6,3 +6,6 @@ OWO BOT
 download autoHotkey https://www.autohotkey.com/download/ahk-v2.exe
 
 that is all, enjoy!
+
+Warnings:
+- Need to always stay on Discord tab.
