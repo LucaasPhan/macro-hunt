@@ -3,7 +3,7 @@ Use for OWO bot
 
 # Instructions:
 1. Read all the Warnings/Instructions here. I won't be responsible for any ban.
-2. Download AutoHotKey.exe (https://www.autohotkey.com/download/ahk-v2.exe)[Click here to download]
+2. Download AutoHotKey.exe https://www.autohotkey.com/download/ahk-v2.exe
 3. Download the script macro.ahk in Release section (Latest version always better)
 4. Turn on Discord tab, set the channel first. 
 5. Run the script, it will pop up a warning dialog, switch to the tab first, if you have read all the warnings/instructions, click OK to proceed. If you haven't, PLEASE READ!
