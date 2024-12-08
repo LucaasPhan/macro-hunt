@@ -1,4 +1,4 @@
-# MACRO HUNT - MARCO
+# MACRO HUNT - MACRO
 Use for OWO bot
 
 # Instructions:
